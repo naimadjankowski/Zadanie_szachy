@@ -1,0 +1,4 @@
+C:\Users\komp\Desktop\szachy_jankowski\Zadanie_szachy\Zadanie_szachy\bin\Debug\Zadanie_szachy.exe.config
+C:\Users\komp\Desktop\PROGRAMOWANIE\szachy_jankowski\Zadanie_szachy\Zadanie_szachy\bin\Debug\Zadanie_szachy.exe.config
+D:\Zadanie_szachy\Zadanie_szachy\bin\Debug\Zadanie_szachy.exe.config
+D:\Zadanie_szachy\Zadanie_szachy\obj\Debug\Zadanie_szachy.csprojResolveAssemblyReference.cache
