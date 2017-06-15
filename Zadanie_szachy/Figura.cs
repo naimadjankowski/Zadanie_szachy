@@ -61,4 +61,21 @@ namespace Zadanie_szachy
         }
 
     }
+
+    public static Figura Figura(string figura, string color)
+    {
+        switch (figura)
+        {
+            case "goniec":
+                return new Goniec(color);
+
+            case "krol":
+                return new Krol(color);
+
+
+            default:
+                throw new Exception("Figura nieznana");
+
+        }
+    }
 }
